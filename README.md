@@ -2,7 +2,7 @@
 
 ## Hakkımda
 
-Konya Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi, yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyor, bu alanlarda projeler geliştiriyorum. Bunun yanı sıra backend geliştirme, nesne tabanlı programlama ve yazılım geliştirme süreçleriyle ilgileniyorum. Akademik bilgi birikimimi gerçek dünya problemlerine uyarlayarak mesleki yetkinliğimi sürekli geliştirmeyi hedefliyorum.
+Konya Teknik Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Veri bilimi, yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyor, bu alanlarda projeler geliştiriyorum. Bunun yanı sıra backend geliştirme, nesne tabanlı programlama ve yazılım geliştirme süreçleriyle ilgileniyorum. Akademik bilgi birikimimi gerçek dünya problemlerine uyarlayarak mesleki yetkinliğimi sürekli geliştirmeyi hedefliyorum.
 
 ---
 
